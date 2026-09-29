@@ -1,1 +1,3 @@
-code files\info.php
+<?php
+phpinfo();
+?>
